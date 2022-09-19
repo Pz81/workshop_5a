@@ -1,0 +1,86 @@
+@charset "utf-8";
+#muur{
+    width: 500px;
+    height: 500px;
+    background-color: #d9d9d9;
+}
+
+.rij{
+    display:flex
+}
+
+.steen1 {
+    background-color: orange;
+    width: 10px;
+    height: 25px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.steen2 {
+    background-color: orange;
+    width: 10px;
+    height: 25px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.steen3 {
+    background-color: orange;
+    width: 10px;
+    height: 25px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.steen4 {
+    background-color: orange;
+    width: 10px;
+    height: 25px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.steen5 {
+    background-color: orange;
+    width: 10px;
+    height: 25px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    }
+    .geen_cement_rechts{
+        margin-right: 0px;
+    }
+.steen6 {
+        background-color: orange;
+        width: 10px;
+        height: 25px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        }
+ .steen7 {
+            background-color: orange;
+            width: 10px;
+            height: 25px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            }
+.steen8 {
+    background-color: orange;
+    width: 10px;
+     height: 25px;
+     margin-right: 5px;
+     margin-bottom: 5px;
+     }
+.steen9 {
+        background-color: orange;
+        width: 10px;
+        height: 25px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+        }
+        .steen10 {
+            background-color: orange;
+            width: 10px;
+            height: 25px;
+            margin-right: 5px;
+            margin-bottom: 5px;
+            }
+
+    
